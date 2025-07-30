@@ -128,19 +128,7 @@ h1 {
   color: #14532d;
 }
 
-button {
-  background: #f87171;
-  color: white;
-  border: none;
-  padding: 12px;
-  width: 100%;
-  font-size: 16px;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-button:hover {
-  background: #ef4444;
+.............................?
 }
 
 input,
@@ -148,24 +136,7 @@ select {
   padding: 10px;
   width: 100%;
   margin-bottom: 12px;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-}
-
-.weather-icon {
-  font-size: 48px;
-  text-align: center;
-}
-
-.copy-btn {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: #888;
-}
+  border: 1px solid
 ```
 
 ---
